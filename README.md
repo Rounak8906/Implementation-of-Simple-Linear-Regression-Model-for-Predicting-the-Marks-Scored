@@ -76,11 +76,13 @@ print("RMSE= ",rmse)
 
 ### Dataset
 <img width="522" height="698" alt="image" src="https://github.com/user-attachments/assets/61ba7382-cf75-4008-8e31-2805ba75981b" />
+
 ### Head values
 <img width="312" height="161" alt="image" src="https://github.com/user-attachments/assets/99169eb8-a783-437d-888c-0dc715e4d9d6" />
 
 ### Tail values
-![Uploading image.png…]()
+<img width="317" height="160" alt="image" src="https://github.com/user-attachments/assets/fd991cad-5a34-41f1-b772-efdcf31e4294" />
+
 
 ### X and Y values
 <img width="880" height="721" alt="image" src="https://github.com/user-attachments/assets/d66bbf6b-86c8-4e89-8981-7b876f69ee2c" />
