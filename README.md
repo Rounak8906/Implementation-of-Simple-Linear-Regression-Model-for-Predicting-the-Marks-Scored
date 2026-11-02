@@ -24,8 +24,7 @@ RegisterNumber: 212225240125
 ```
 ```py
 
-Developed by:PRIYANGHA G 
-RegisterNumber: 212223040157
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
